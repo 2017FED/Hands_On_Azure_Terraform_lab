@@ -1,4 +1,5 @@
 # Azure Provider source and version being used
+#Version 2
 terraform {
   required_providers {
     azurerm = {
